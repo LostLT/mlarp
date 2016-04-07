@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D653E1BF-BAE4-2244-92F5-CF780E42A42F}") = "Hackorz", "Assembly-CSharp.csproj", "{03A3FF36-880E-5A2C-F227-C42DB537CF36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A3FF36-880E-5A2C-F227-C42DB537CF36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A3FF36-880E-5A2C-F227-C42DB537CF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A3FF36-880E-5A2C-F227-C42DB537CF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A3FF36-880E-5A2C-F227-C42DB537CF36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
