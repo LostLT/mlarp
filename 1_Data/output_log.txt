@@ -1,3 +1,10 @@
+Mono path[0] = 'C:/Users/unite/Documents/5xPROJECTS/_Repos/Hackorz/1_Data/Managed'
+Mono path[1] = 'C:/Users/unite/Documents/5xPROJECTS/_Repos/Hackorz/1_Data/Mono'
+Mono config path = 'C:/Users/unite/Documents/5xPROJECTS/_Repos/Hackorz/1_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/unite/Documents/5xPROJECTS/_Repos/Hackorz/1_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55508
+Multi-casting "[IP] 10.8.1.2 [Port] 55508 [Flags] 2 [Guid] 1853490190 [EditorId] 1706600674 [Version] 1048832 [Id] WindowsPlayer(unite2) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [10.8.1.2:55508]
 Initialize engine version: 5.4.0b14 (0d4790749194)
 GfxDevice: creating device client; threaded=1
 Direct3D:
@@ -7,24 +14,22 @@ Direct3D:
     VRAM:     1986 MB
 Cluster Renderer Log : ARG list
 
-C:\Users\unite\Documents\Hackorz\1.exe
+C:\Users\unite\Documents\5xPROJECTS\_Repos\Hackorz\1.exe
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\unite\Documents\Hackorz\1_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\unite\Documents\Hackorz\1_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\unite\Documents\Hackorz\1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\unite\Documents\Hackorz\1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\unite\Documents\Hackorz\1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\unite\Documents\Hackorz\1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\unite\Documents\Hackorz\1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\unite\Documents\Hackorz\1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.103 seconds
-Platform assembly: C:\Users\unite\Documents\Hackorz\1_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\unite\Documents\Hackorz\1_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\unite\Documents\5xPROJECTS\_Repos\Hackorz\1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\unite\Documents\5xPROJECTS\_Repos\Hackorz\1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\unite\Documents\5xPROJECTS\_Repos\Hackorz\1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\unite\Documents\5xPROJECTS\_Repos\Hackorz\1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\unite\Documents\5xPROJECTS\_Repos\Hackorz\1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\unite\Documents\5xPROJECTS\_Repos\Hackorz\1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.090 seconds
+Platform assembly: C:\Users\unite\Documents\5xPROJECTS\_Repos\Hackorz\1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\unite\Documents\5xPROJECTS\_Repos\Hackorz\1_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1200 60Hz; virtual: 1920x1200 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.674470 ms
+UnloadTime: 2.734536 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: ec8 -> priority: 1 
-  Thread -> id: 2ccc -> priority: 1 
+  Thread -> id: be0 -> priority: 1 
+  Thread -> id: 9bc -> priority: 1 
